@@ -1,0 +1,24 @@
+{
+  "name": "vaccine_basic",
+  "version": "1.0.0",
+  "description": "vaccine setu basic app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "yugansh dhir",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/mapbox-sdk": "^0.13.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.1",
+    "fs-extra": "^10.0.0",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  },
+  "keywords": []
+}
